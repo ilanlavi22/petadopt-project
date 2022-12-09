@@ -1,6 +1,7 @@
 {
   "name": "project3",
   "version": "0.0.1",
+  "main": "./server/server.js",
   "scripts": {
     "start": "cd server && npm run start",
     "prepare": "cd server && npm i"
